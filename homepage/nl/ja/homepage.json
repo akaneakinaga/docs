@@ -2,7 +2,7 @@
 	"identifier": "id",
 	"label": "title",
 	"items": [{
-		"id": "GetStarted"
+		"id": "はじめに"
 	}, {
 		"id": "Categories",
 		"items": [{
