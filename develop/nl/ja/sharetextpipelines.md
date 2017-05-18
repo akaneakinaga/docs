@@ -11,7 +11,7 @@ lastupdated: "2017-3-16"
 {:new_window: target="_blank"}
 {:codeblock: .codeblock}
 
-#サンプル・プロジェクトにおけるテキスト・ベースのパイプラインの共有{: #share-pipeline}
+#サンプル・プロジェクトにおけるテキスト・ベースのパイプラインの共有  {: #share-pipeline}
 
 「{{site.data.keyword.Bluemix_notm}} にデプロイ」ボタンで {{site.data.keyword.Bluemix_notm}} にデプロイされたサンプル・プロジェクトに対して、パイプライン構成を YAML ファイルとして定義できます。テキストとして定義されたパイプラインは共有することができ、それによりプロジェクトをフォークする人は独自のパイプラインを構成する必要がなくなります。この機能は現在開発中で、YAML フォーマットと実装は随時変更される可能性があります。現在この機能は、{{site.data.keyword.Bluemix_notm}} をターゲットとする Git リポジトリーおよび GitHub リポジトリーを持つプロジェクトでのみ使用可能です。
 {: shortdesc} 
